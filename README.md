@@ -5,7 +5,7 @@ A demo script written in Python 3 that fetches a REST API and displays summary s
 To run the code:
 
  1. Clone the repository
- 2. Ensure at leastt Python 3.7 is installed:
+ 2. Ensure at least Python 3.7 is installed:
  
  ``` 
  $ python --version 
