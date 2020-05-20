@@ -12,6 +12,15 @@ To run the code:
  Python 3.7.5
  ```
  
+ Windows might have it installed as ```py```:
+ 
+ ```
+ PS C:\Users\User\source\repos\test> py --version
+ Python 3.7.5
+ ```
+ 
+ OK
+ 
  3. Ensure pipenv in installed:
  
  ``` $ pip install --user pipenv ```
