@@ -9,6 +9,8 @@ rope = "*"
 
 [packages]
 requests = "*"
+squarify = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
