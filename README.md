@@ -12,19 +12,19 @@ To run the code:
  Python 3.7.5
  ```
  
- 2. Ensure pipenv in installed:
+ 3. Ensure pipenv in installed:
  
  ``` $ pip install --user pipenv ```
  
- 3. Setup a virtualenv with pipenv:
+ 4. Setup a virtualenv with pipenv:
  
  ``` $ pipenv shell ```
  
- 4. Install dependencies:
+ 5. Install dependencies:
  
  ``` $ pipenv install ```
  
- 5. Run the script with:
+ 6. Run the script with:
  
  ``` $ python employee_stats.py -help ``` 
  
