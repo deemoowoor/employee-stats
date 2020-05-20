@@ -7,8 +7,10 @@ To run the code:
  1. Clone the repository
  2. Ensure at leastt Python 3.7 is installed:
  
- ``` $ python --version 
- Python 3.7.5```
+ ``` 
+ $ python --version 
+ Python 3.7.5
+ ```
  
  2. Ensure pipenv in installed:
  
